@@ -1,4 +1,4 @@
-# data-science-bootcamp
+# Data-science-bootcamp
 My data portfolio for data analyst role
 
 ## What did I learn from this bootcamp
